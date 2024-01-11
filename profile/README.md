@@ -20,7 +20,7 @@ We contribute to the tools 🔧 we rely on to build and run Socket, while also m
 - [socket-sdk-js](https://github.com/SocketDev/socket-sdk-js)
 - [vscode-socket-security](https://github.com/SocketDev/vscode-socket-security)
 
-We also run Wormhole](https://wormhole.app) as a free service for the security community. Wormhole lets you share files with end-to-end encryption and a link that automatically expires. So you can keep what you share private and make sure your stuff doesn't stay online forever. Here are a few of the open source projects that power it:
+We also run [Wormhole](https://wormhole.app) as a free service for the security community. Wormhole lets you share files with end-to-end encryption and a link that automatically expires. So you can keep what you share private and make sure your stuff doesn't stay online forever. Here are a few of the open source projects that power it:
 
 - [wormhole-crypto](https://github.com/SocketDev/wormhole-crypto)
 - [fs-access-chunk-store](https://github.com/SocketDev/fs-access-chunk-store)
