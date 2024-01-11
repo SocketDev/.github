@@ -16,8 +16,15 @@ Now that we are talking about the important things ☝️, we're looking for sma
 
 We contribute to the tools 🔧 we rely on to build and run Socket, while also maintaining 🧙‍♂️ our own open source projects like:
 
+- [socket-cli-js](https://github.com/SocketDev/socket-cli-js)
+- [socket-sdk-js](https://github.com/SocketDev/socket-sdk-js)
+- [vscode-socket-security](https://github.com/SocketDev/vscode-socket-security)
+
+We also run an end-to-end encrypted file transfer service as a free service for the security community. [Wormhole](https://wormhole.app) lets you share files with end-to-end encryption and a link that automatically expires. So you can keep what you share private and make sure your stuff doesn't stay online forever. Here are a few of the open source projects that power it:
+
 - [wormhole-crypto](https://github.com/SocketDev/wormhole-crypto)
-- More coming _very_ soon!
+- [fs-access-chunk-store](https://github.com/SocketDev/fs-access-chunk-store)
+- [idb-chunk-store](https://github.com/SocketDev/idb-chunk-store)
 
 ---
 
