@@ -10,7 +10,7 @@ The open source community is the 💗 heart of Socket and fundamental to how we 
 - Open source software created by Socketeers has received a stunning **1 billion** downloads per month 🤯
 - Our software is used by individuals and companies around the world 🌍
 
-Now that we are talking about the important things ☝️, we're looking for smart people to join our team 🙌. If you specialize in making computers do things they’re not supposed to do, please drop us a line at work@socket.dev.
+Now that we are talking about the important things ☝️, we're looking for smart people to join our team 🙌. If you specialize in making computers do things they’re not supposed to do, please drop us a line at https://socket.dev/careers.
 
 ### ❤️ Contributing to the ecosystem
 
